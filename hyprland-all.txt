@@ -29,7 +29,9 @@ luarocks
 npm
 polkit-gnome
 rofi-wayland
+starship
 stow
+zsh
 celluloid
 darktable
 displaycal

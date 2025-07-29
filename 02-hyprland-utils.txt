@@ -8,4 +8,6 @@ luarocks
 npm
 polkit-gnome
 rofi-wayland
+starship
 stow
+zsh
