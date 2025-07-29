@@ -1,0 +1,11 @@
+ddcutil
+eza
+firewalld
+jq
+lazygit
+libappindicator-gtk3
+luarocks
+npm
+polkit-gnome
+rofi-wayland
+stow

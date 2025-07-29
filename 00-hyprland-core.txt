@@ -1,0 +1,13 @@
+cliphist
+dunst
+hypridle
+hyprland
+hyprlock
+hyprpaper
+hyprpicker
+kitty
+qt5-wayland
+qt6-wayland
+waybar
+xdg-desktop-portal-gtk
+xdg-desktop-portal-hyprland

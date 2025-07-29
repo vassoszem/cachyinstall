@@ -1,0 +1,9 @@
+gnome-themes-extra
+gtk-engine-murrine
+kvantum
+nwg-look
+qt5ct
+qt6ct
+sassc
+ttf-fira-sans
+ttf-jetbrains-mono-nerd
