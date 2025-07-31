@@ -1,3 +1,4 @@
+calcurse
 ddcutil
 eza
 firewalld
